@@ -1,4 +1,4 @@
-# stock_alerts
+# financial_alerts
 
 A collection of Python scripts that monitors:
 
