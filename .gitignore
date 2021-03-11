@@ -1,0 +1,12 @@
+# Ignore API keys
+/alerts/lib/api_keys.py
+
+# Ignore chrome folder
+/chrome
+
+# Ignore .idea
+/.idea
+
+# Ignore csv, pickle
+*.csv
+*.pickle
