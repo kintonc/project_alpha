@@ -1,4 +1,4 @@
-# financial_alerts
+# project_alpha
 
 A collection of Python scripts that monitors:
 
