@@ -66,7 +66,7 @@ wd.close()
 greenDiv = 'lib_3ftZEIu'
 redDiv = 'lib_hYxgIpE'
 
-f = open('/home/pi/dev/stocktwits.html','w')
+f = open('/home/pi/dev/stocks/project_alpha/monitor/stocktwits.html','w')
 
 message = """<html>
 <head>
@@ -110,4 +110,4 @@ message += """</tbody>
 f.write(message)
 f.close()
 
-scp.scpToServer('/home/pi/dev/stocktwits.html', '/home/kintonme/public_html/stock')
+scp.scpToServer('/home/pi/dev/project_alpha/monitor/stocktwits.html', '/home/kintonme/public_html/stock')
