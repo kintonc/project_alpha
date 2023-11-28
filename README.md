@@ -15,6 +15,8 @@ A collection of Python scripts that monitors:
     * Put/call ratios for various stocks
     * RSI alerts (if stock goes below RSI < 30, for example)
 
+These scripts power https://twitter.com/stonkalerts
+
 ### Library Dependencies (make sure you have these libraries installed before running scripts):
 1. Pickle
 2. Pandas / Numpy
